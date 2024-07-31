@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    width: 30%;
+    margin: auto;
+}
+
+h2 {
+    margin-bottom: 20px;
+    color: white;
+}
+
+.btn {
+    transition: background-color 0.3s;
+    color: white;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+label{
+    color: white;
+}
